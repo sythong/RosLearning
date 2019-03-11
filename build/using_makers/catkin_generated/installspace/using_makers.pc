@@ -1,0 +1,8 @@
+prefix=/home/thongktdt/ros_ws/install
+
+Name: using_makers
+Description: Description of using_makers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thongktdt/ros_ws/install/lib 
+Requires: 

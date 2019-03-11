@@ -1,0 +1,8 @@
+prefix=/home/thongktdt/ros_ws/install
+
+Name: motion_plan
+Description: Description of motion_plan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thongktdt/ros_ws/install/lib 
+Requires: 

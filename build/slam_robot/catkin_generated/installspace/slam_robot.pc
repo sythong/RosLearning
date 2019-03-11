@@ -1,0 +1,8 @@
+prefix=/home/thongktdt/ros_ws/install
+
+Name: slam_robot
+Description: Description of slam_robot
+Version: 0.0.0
+Cflags: -I/home/thongktdt/ros_ws/install/include
+Libs: -L/home/thongktdt/ros_ws/install/lib -lslam_robot
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

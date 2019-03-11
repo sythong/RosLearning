@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thongktdt/ros_ws/src/slam_robot/src/rplidar/laserscan/utility_lib.cpp
+utility_lib.h
+/home/thongktdt/ros_ws/src/slam_robot/src/rplidar/laserscan/utility_lib.h
+
+/home/thongktdt/ros_ws/src/slam_robot/src/rplidar/laserscan/utility_lib.h
+math.h
+-
+

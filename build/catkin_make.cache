@@ -1,0 +1,2 @@
+slam_robot:two-wheeled-robot-motion-planning:using_makers
+-DCATKIN_DEVEL_PREFIX=/home/thongktdt/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thongktdt/ros_ws/install -G Unix Makefiles
